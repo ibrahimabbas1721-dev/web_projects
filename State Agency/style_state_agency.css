@@ -1,0 +1,402 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+
+/*-------------------header----------------------*/
+
+.header{
+    background-color: rgba(32, 32, 32, 0.925);
+    height: 70px;
+    border-bottom: 2px solid black;
+    /* display: flex; */
+}
+.header img{
+    /* padding: 12px 23px;
+    margin: 12px 12px;*/
+    height: 70px;
+    margin-left:30px ;
+} 
+.header button{
+    float: right;
+    color: white;
+    margin: 15px 60px;
+    padding: 0px 20px;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    background-color: white;
+    cursor: pointer;
+    background-color: rgb(38, 120, 226);
+}
+.header button:hover{
+    color: rgba(209, 228, 253, 0.973);
+    background-color: rgba(0, 0, 0, 0.363);
+    box-shadow: 2px 2px 7px white;
+}
+
+/*-----------------Face-------------------*/
+
+.navbar::before{
+    content: "";
+    background: url(img/State_agent_background.jpg) no-repeat center center/cover;
+    position: absolute;
+    height: 800px;
+    top: 70px;
+    left: 0px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.90;
+}
+
+.face h1{
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-right: 250px;
+}
+.navbar ul li a{
+    float: right;
+    color: rgb(0, 0, 0);
+    padding: 3px 22px;
+    margin: 40px 20px;
+    text-decoration: none;
+    align-items: right;
+    /* font-weight: bold; */
+    font-size: 1.2rem;
+}
+.navbar ul  a{
+    float: right;
+    color: rgb(0, 0, 0);
+    padding: 3px 22px;
+    margin: 40px 20px;
+    text-decoration: none;
+    align-items: right;
+    /* font-weight: bold; */
+    font-size: 1.2rem;
+}
+.navbar ul li a:hover{
+  background-color: rgba(209, 228, 253, 0.973);
+  border-radius: 30px;
+}
+
+.navbar ul {
+    text-align: center;
+    justify-content: center;
+}
+
+
+.navbar ul{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+    margin: 1px 23px;
+    /* width: 100px; */
+    padding: 0px 34px;
+}
+.main-box{
+text-align: center;
+    justify-content: center;
+    /* height: 300px; */
+    width: 1000px;
+    margin-top: 230px;
+}
+.main-box h2{
+font-size: 4rem;
+margin: 0%;
+}
+.main-box p{
+    font-size: 1.2rem;
+}
+.main-box button{
+    color:white;
+    background-color:rgb(38, 120, 226) ;
+    font-size: 1.2rem;
+    margin: 7px 32px;
+    padding: 10px 52px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: 1.5px solid black;
+}
+.main-box button:hover{
+   color:rgba(209, 228, 253, 0.973);
+   background-color: rgba(0, 0, 0, 0.904);
+   border: 2px solid white;
+}
+
+/*----------------Intro----------------------*/
+.intro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+}
+.intro img{
+    width: 400px;
+    /* height: 400px; */
+    margin: 20px 30px;
+    margin-right: -70px;
+    margin-top: 30px;
+    margin-bottom: -70px;
+    margin-left: 30px;
+}
+.img{
+    /* box-shadow: 51px 51px solid rgb(38, 120, 226); */
+    border: 26px solid rgb(38, 120, 226);
+}
+.info{
+    width: 650px;
+     margin: 20px 110px;
+}
+.info h2{
+    font-weight: bold;
+    font-size: 2.5rem;
+} 
+.info p{
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+.maria{
+    color: rgba(0, 0, 0, 0.486);
+}
+.info img{
+    width: 200px;
+    align-items: right;
+    justify-content: right;
+}
+
+
+/*------------------Properties----------------------*/
+.properties{
+    background-color: rgba(0, 0, 0, 0.075);
+    margin-top: 200px;
+    text-align: center;
+    height: 1150px;
+}
+.properties h1{
+    font-size: 2rem;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+.properties h6{
+   color: rgba(0, 0, 0, 0.075);
+}
+.up{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.up img{
+    width: 750px;
+    height: 450px;
+    /* margin: 23px 34px; */
+    /* width: 100%; */
+  /* height: auto; */
+}
+.up button{
+    position: absolute;
+  top: 10%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  color:white;
+  background-color:rgb(38, 120, 226) ;
+  font-size: 16px;
+  padding: 7px 20px;
+  border: 3px sloid black;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.up button:hover{
+    color:rgba(209, 228, 253, 0.973);
+   background-color: rgba(0, 0, 0, 0.904);
+   border: 2px solid white;
+    
+}
+.up1{
+    /* border: 2px solid red; */
+    /* box-shadow: 3px 3px 5px black; */
+    position: relative; 
+    margin-right: 20px; 
+    height: 800px;
+    /* width: 50%; */
+}
+.up2{
+    /* border: 2px solid red; */
+    /* box-shadow: 2px 2px 15px black; */
+    position: relative;  
+    margin-left: 20px; 
+    height: 800px;
+    /* width: 50%; */
+}
+.up1:hover,.up2:hover{
+    box-shadow: 1px 1px 40px rgba(0, 0, 0, 0.274);
+}
+ .up p{
+    font-size: 1.2rem;
+    text-align: start;
+    margin-left: 15px;
+    color: rgba(0, 0, 0, 0.486);
+}
+.up h2{
+    font-size: 2rem;
+    text-align: start;
+    margin-left: 15px;
+}
+.detail{
+    text-align: left;
+    font-size: 1.3rem;
+    margin-left: 15px;
+}
+.up a{
+    font-size: 2rem;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.up a:hover{
+    color:rgb(38, 120, 226) ;
+}
+    
+/*------------------Askme-----------------------*/
+.askme{
+    height: 500px;
+    background: url(img/background_img_Estate_agency.jpg) center  center/cover no-repeat;
+    opacity: 0.89;
+    z-index: -1;
+    top: 30%;
+    background-color: rgb(38, 120, 226);
+}
+.container1 h1{
+    text-align: center;
+    justify-content: center;
+    font-size: 4rem;
+    font-weight: bold;
+}
+.container1 h2{ 
+    color: transparent;
+    
+}
+.container1 a{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    font-size: 4rem;
+    font-weight: bold;
+    color: white;
+    /* margin-left: 1255px; */
+    /* background-color: white; */
+}
+.container1 a:hover{
+    color: rgb(38, 120, 226);
+    
+}
+
+/* -----------------------Contact section------------------ */
+.contact{
+    text-align: center;
+    justify-content: center;
+    margin-top: 0px;
+    background-color: rgba(0, 0, 0, 0.075);
+}
+.contact h1{
+    font-size: 2.5rem;
+}
+.contact p{
+    font-size: 1.5rem;
+}
+.form-group input{
+    width: 700px;
+    /* height: 100px;  */
+    padding: 12px 36px;
+    margin: 12px 12px;
+    border-radius: 9px;
+    font-size: 1.1rem;
+    border: none;
+}
+#contact-box textarea{
+    width: 700px;
+    height: 100px;
+    padding: 12px 36px;
+    margin: 12px 12px;
+    border-radius: 9px;
+    font-size: 1.1rem;
+    border: none;
+}
+#contact-box button{
+    color:white;
+    background-color:rgb(38, 120, 226) ;
+    width: 568px;
+    height: 70px;
+    padding: 2px 36px;
+    margin: 12px 12px;
+    font-size: 1.1rem;
+    border-radius: 10px;
+    font-weight: bold;
+}
+#contact-box button:hover{
+    color:rgba(209, 228, 253, 0.973);
+   background-color: rgba(0, 0, 0, 0.904);
+   border: 2px solid white;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 9px 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
