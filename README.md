@@ -7,4 +7,4 @@ Technologies Used
 <br>
 <strong>Html</strong> : Use for the structure of the website <br>
 <strong>CSS</strong> : Use for the styling of the website <br>
-<strong>Auther </strong> Ibrahim Abbas
+<strong>Auther </strong> : Ibrahim Abbas
