@@ -52,7 +52,7 @@
 }
 
 .face h1{
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: bold;
     margin-right: 250px;
 }
@@ -219,36 +219,29 @@ margin: 0%;
     /* border: 2px solid red; */
     /* box-shadow: 3px 3px 5px black; */
     position: relative; 
-    margin-right: 20px; 
+    margin-right: 20px;
     height: 800px;
     /* width: 50%; */
 }
-.up2{
-    /* border: 2px solid red; */
-    /* box-shadow: 2px 2px 15px black; */
-    position: relative;  
-    margin-left: 20px; 
-    height: 800px;
-    /* width: 50%; */
-}
+
 .up1:hover,.up2:hover{
     box-shadow: 1px 1px 40px rgba(0, 0, 0, 0.274);
 }
  .up p{
     font-size: 1.2rem;
     text-align: start;
-    margin-left: 15px;
+    margin-left: 40px;
     color: rgba(0, 0, 0, 0.486);
 }
 .up h2{
     font-size: 2rem;
     text-align: start;
-    margin-left: 15px;
+    margin-left: 40px;
 }
 .detail{
     text-align: left;
     font-size: 1.3rem;
-    margin-left: 15px;
+    margin-left: 40px;
 }
 .up a{
     font-size: 2rem;
