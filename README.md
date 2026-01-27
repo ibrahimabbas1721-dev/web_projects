@@ -14,8 +14,22 @@ A simple website design developed for property **purchase, sale, and consultatio
 
 ## 📸 Landing Page
 <img src="State%20Agency/img/intro.jpg" alt="Landing Page Preview" width="100%" />
-<img src="State%20Agency/img/intro.jpg" alt="Landing Page Preview" width="100%" />
-<img src="State%20Agency/img/intro.jpg" alt="Landing Page Preview" width="100%" />
+---
+
+## 📸 Agent Intro
+<img src="State%20Agency/img/intro2.jpg" alt="Landing Page Preview" width="100%" />
+---
+
+## 📸 Apartment Section
+<img src="State%20Agency/img/apartment.jpg" alt="Landing Page Preview" width="100%" />
+---
+
+## 📸 Contect Me Section
+<img src="State%20Agency/img/contectMe.jpg" alt="Landing Page Preview" width="100%" />
+---
+
+## 📸 Footer Section
+<img src="State%20Agency/img/footer.jpg" alt="Landing Page Preview" width="100%" />
 
 ---
 
