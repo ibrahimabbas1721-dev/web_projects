@@ -10,6 +10,6 @@ Technologies Used
 <br>
 # Landing Page
 <br>
-<img src="img/intro.jpg" alt="Error">
+<img src="img/intro.jpg" alt="Navbar and Hero Section Preview" width="100%" />
 <br>
 <strong>Auther </strong> : Ibrahim Abbas
