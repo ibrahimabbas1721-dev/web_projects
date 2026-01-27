@@ -1,15 +1,22 @@
-# web_projects
-State Agency webApp
-<br>
-Its a simple website design, developed for certain user and for the purchase and sale of properties and state also for the the consultation about properties and retail houses 
-<br>
-Technologies Used
-<br>
-<strong>Html</strong> : Use for the structure of the website <br>
-<strong>CSS</strong> : Use for the styling of the website <br>
-<br>
-# Landing Page
-<br>
-<img src="img/intro.jpg" alt="Navbar and Hero Section Preview" width="100%" />
-<br>
-<strong>Auther </strong> : Ibrahim Abbas
+# 🌐 Web Projects
+
+## 🏠 State Agency Web App
+
+A simple website design developed for property **purchase, sale, and consultation** related to real estate and retail houses.
+
+---
+
+## 🛠️ Technologies Used
+- **HTML** – Structure of the website
+- **CSS** – Styling and layout
+
+---
+
+## 📸 Landing Page
+<img src="img/intro.jpg" alt="Landing Page Preview" width="100%" />
+
+---
+
+## 👤 Author
+**Ibrahim Abbas**
+
