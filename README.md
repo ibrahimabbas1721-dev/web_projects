@@ -7,4 +7,9 @@ Technologies Used
 <br>
 <strong>Html</strong> : Use for the structure of the website <br>
 <strong>CSS</strong> : Use for the styling of the website <br>
+<br>
+# Landing Page
+<br>
+<img src="img/intro.jpg" alt="Error">
+<br>
 <strong>Auther </strong> : Ibrahim Abbas
