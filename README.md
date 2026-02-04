@@ -26,7 +26,7 @@ The project focuses on structured layouts, visual presentation, and user-friendl
 ---
 
 ### 🔹 Apartment Listings
-<img src="State%20Agency/img/apartment1.jpg" alt="Apartment Section Preview" width="100%" />
+<img src="State%20Agency/img/apartment2.jpg" alt="Apartment Section Preview" width="100%" />
 
 ---
 
